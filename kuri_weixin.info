@@ -1,0 +1,6 @@
+name = Weixin Integration
+description = Weixin Integration
+package = KURI
+core = 7.x
+
+dependencies[] = rules
